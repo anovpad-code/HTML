@@ -1,4 +1,5 @@
 # HTML
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 Repository ini berisi kumpulan contoh file **HTML** untuk belajar dan menjelajah struktur halaman web, termasuk penggunaan tag dan semantic HTML.
 
